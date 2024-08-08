@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">@android:color/dim_foreground_light</color>
+    <color name="netrual_color">@android:color/perms_dangerous_perm_color</color>
+    <color name="system_accent">@android:color/keyguard_text_color_normal</color>
+    <color name="system_accent_2">@android:color/lock_pattern_view_success_color</color>
+    <color name="system_accent_darker">@android:color/keyguard_text_color_soundoff</color>
+    <color name="system_accent_soft">@android:color/keyguard_text_color_unlock</color>
+</resources>

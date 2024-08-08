@@ -1,0 +1,9 @@
+package vegabobo.dsusideloader;
+
+import dagger.hilt.android.components.ActivityRetainedComponent;
+import dagger.hilt.android.internal.managers.ActivityComponentManager;
+import dagger.hilt.android.internal.managers.ActivityRetainedComponentManager;
+import dagger.hilt.internal.GeneratedComponent;
+
+public abstract class DSUSideloaderApplication_HiltComponents$ActivityRetainedC implements ActivityRetainedComponent, ActivityComponentManager.ActivityComponentBuilderEntryPoint, ActivityRetainedComponentManager.ActivityRetainedLifecycleEntryPoint, GeneratedComponent {
+}
