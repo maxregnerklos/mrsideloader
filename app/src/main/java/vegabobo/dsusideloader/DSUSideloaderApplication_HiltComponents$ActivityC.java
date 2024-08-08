@@ -1,9 +1,0 @@
-package vegabobo.dsusideloader;
-
-import dagger.hilt.android.components.ActivityComponent;
-import dagger.hilt.android.internal.lifecycle.DefaultViewModelFactories;
-import dagger.hilt.android.internal.lifecycle.HiltWrapper_HiltViewModelFactory_ActivityCreatorEntryPoint;
-import dagger.hilt.internal.GeneratedComponent;
-
-public abstract class DSUSideloaderApplication_HiltComponents$ActivityC implements ActivityComponent, DefaultViewModelFactories.ActivityEntryPoint, HiltWrapper_HiltViewModelFactory_ActivityCreatorEntryPoint, GeneratedComponent, MainActivity_GeneratedInjector {
-}

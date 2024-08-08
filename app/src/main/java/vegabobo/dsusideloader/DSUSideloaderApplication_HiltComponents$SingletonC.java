@@ -1,7 +1,0 @@
-package vegabobo.dsusideloader;
-
-import dagger.hilt.android.internal.managers.ActivityRetainedComponentManager;
-import dagger.hilt.internal.GeneratedComponent;
-
-public abstract class DSUSideloaderApplication_HiltComponents$SingletonC implements ActivityRetainedComponentManager.ActivityRetainedComponentBuilderEntryPoint, GeneratedComponent, DSUSideloaderApplication_GeneratedInjector {
-}
