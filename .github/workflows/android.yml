@@ -5,6 +5,7 @@ on:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
+  workflow_dispatch: # This allows manual triggers of the workflow
 
 jobs:
   build:
